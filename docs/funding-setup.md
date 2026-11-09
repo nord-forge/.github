@@ -1,6 +1,6 @@
 # Set up funding for nord-forge
 
-Status: account enrollment is pending. No donation links are active in the shared funding file. Prepared on 9 November 2026.
+Status: [GitHub Sponsors for nord-forge](https://github.com/sponsors/nord-forge) is public and enabled in the shared funding file. Ko-fi is deferred; Buy Me a Coffee is not configured. Updated on 9 November 2026.
 
 Use the public name **nord-forge** across the services you choose. Claim a matching handle where available, and record the actual public URL rather than assuming a handle is yours. One shared account per service can receive support for the organization's projects.
 
